@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sbashar04
+- 👋 Hi, I’m Md Shafiul Bashar. In github @sbashar04
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning MERN Stack
 - 💞️ I’m looking to collaborate on world class software.
