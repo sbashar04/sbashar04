@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Md Shafiul Bashar. In github @sbashar04
-- 😆 I'm Angular Frontend Developer at Fair Patterh LTD and working for our client Shohoz.com.
+- 😆 I'm Angular Frontend Developer at Fair Pattern LTD and working for our client Shohoz.com.
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning MERN Stack
 - 💞️ I’m looking to collaborate on world class software.
