@@ -14,12 +14,19 @@ I'm a passionate **Full-Stack Software Engineer** currently working at **Shohoz 
 
 ---
 
+### 🧠 AI Tools I Use Regularly
+
+- **Cursor** – My AI-powered code editor of choice  
+- **GitHub Copilot** – For code completion and problem-solving  
+- **Gemini**, **Claude Code**, **Perplexity**, **Blackbox**, **Kilo** – For research, debugging, and coding assistance
+
+---
+
 ### 🔗 Connect With Me
 
 - 🌐 Portfolio: [shafiulbashar.com](https://www.shafiulbashar.com)
-- 📧 Email: hello@shafiulbashar.com
-- 💼 LinkedIn: [linkedin.com/in/sbashar04](https://linkedin.com/in/sbashar04)
-
+- 📧 Email: [hello@shafiulbashar.com](mailto:hello@shafiulbashar.com)
+- 💼 LinkedIn: [linkedin.com/in/mdshafiulbashar](https://www.linkedin.com/in/mdshafiulbashar/)
 ---
 
 <!---
