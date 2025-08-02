@@ -16,9 +16,9 @@ I'm a passionate **Full-Stack Software Engineer** currently working at **Shohoz 
 
 ### 🧠 AI Tools I Use Regularly
 
-- **Cursor** – My AI-powered code editor of choice  
+- **VS CODE with AI-Powered Extensions**, and **Cursor** – My AI-powered code editor of choice  
 - **GitHub Copilot** – For code completion and problem-solving  
-- **Gemini**, **Claude Code**, **Perplexity**, **Blackbox**, **Kilo** – For research, debugging, and coding assistance
+- **ChatGPT**, **Gemini**, **Claude Code**, **Perplexity**, **Blackbox**, **Kilo** – For research, debugging, and coding assistance
 
 ---
 
