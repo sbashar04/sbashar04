@@ -1,35 +1,68 @@
-### 👋 Hi, I'm Md Shafiul Bashar (@sbashar04)
+# 🚀 Md Shafiul Bashar | Full-Stack Software Engineer
 
-I'm a passionate **Full-Stack Software Engineer** currently working at **Shohoz Ltd.**, with 8+ years of experience in designing and building high-quality web applications.
+Building scalable enterprise solutions with **8+ years of professional experience**. Currently driving innovation at **Shohoz Ltd.**, specializing in modern web architectures, real-time systems, and high-performance applications.
 
----
-
-### 💡 About Me
-
-- 🚀 Specializing in **Frontend Development** with a strong focus on **Angular**, **TypeScript**, **Laravel**, and **WordPress**
-- 🌱 Currently diving deeper into the **MERN Stack** (MongoDB, Express, React, Node.js)
-- 🛠️ Experienced in building **SPAs**, **PWAs**, and enterprise-grade solutions
-- 💬 I love collaborating on impactful, world-class software products
-- 📚 Always learning and exploring new technologies to sharpen my skills
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mdshafiulbashar/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-orange?style=for-the-badge&logo=google-chrome)](https://www.shafiulbashar.com)
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:hello@shafiulbashar.com)
 
 ---
 
-### 🧠 AI Tools I Use Regularly
+### 🛠️ Core Expertise
 
-- **VS CODE with AI-Powered Extensions**, and **Cursor** – My AI-powered code editor of choice  
-- **GitHub Copilot** – For code completion and problem-solving  
-- **ChatGPT**, **Gemini**, **Claude Code**, **Perplexity**, **Blackbox**, **Kilo** – For research, debugging, and coding assistance
+- **Frontend Architecture:** Specialist in **Angular (v2-v21)**, TypeScript, RxJS, and State Management (Signals/NgRx).
+- **Backend & Real-time:** Strong foundation in **Laravel**, **Node.js**, and Socket programming for high-concurrency systems.
+- **System Modernization:** Proven track record in migrating legacy monolithic systems (PHP 5.6) to modern decoupled architectures.
+- **Enterprise Solutions:** Experienced in building Omni-channel platforms, SSO, and POS integrations.
 
 ---
 
-### 🔗 Connect With Me
+### 💻 Technical Stack
 
-- 🌐 Portfolio: [shafiulbashar.com](https://www.shafiulbashar.com)
-- 📧 Email: [hello@shafiulbashar.com](mailto:hello@shafiulbashar.com)
-- 💼 LinkedIn: [linkedin.com/in/mdshafiulbashar](https://www.linkedin.com/in/mdshafiulbashar/)
+| Category | Technologies |
+| :--- | :--- |
+| **Frontend** | Angular, React, TypeScript, Tailwind CSS, Electron |
+| **Backend** | Laravel (v4-v12), Node.js (Express), PHP |
+| **Database & Real-time** | MySQL, Redis, MongoDB, Socket.io |
+| **DevOps & Tools** | Docker, Azure DevOps, Nginx, Git, CI/CD |
+| **AI-Assisted Dev** | Cursor, GitHub Copilot, Claude Code, Gemini |
+
 ---
 
-<!---
-sbashar04/sbashar04 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### 🚀 Featured Engineering Projects
+
+#### 🚂 Next-Gen Mass-Transit Ticketing Ecosystem
+*Led the frontend architecture and real-time synchronization for a national-scale ticketing platform serving millions of users.*
+
+* **Omni-channel Experience:** Developed and maintained a unified ecosystem across **Web**, **Mobile**, **Self-Service Vending Machines**, and **Instant-Print Kiosks** (Electron).
+* **Real-time Engine:** Architected a high-performance **Node.js Socket Server** to manage live seat status and concurrent user tracking across complex routes.
+* **Architectural Migration:** Spearheaded the transition from a legacy Laravel 4.2 monolith to a high-speed **Headless Architecture** (Angular 13 + Laravel API), significantly improving scalability and UX.
+* **Leadership:** Serving as the Frontend Lead for this ecosystem since 2022.
+
+#### 🚌 Enterprise Mobility & SSO Integration
+*Modernized mission-critical transport management panels and unified cross-vertical authentication.*
+
+* **Legacy-to-SPA Transformation:** Successfully converted large-scale legacy panels (PHP 5.6/Laravel 4.2) into modern **Angular 17 SPAs**, enhancing operational efficiency.
+* **Centralized Identity Management:** Developed a robust **SSO (Single Sign-On)** system to unify authentication across diverse business verticals (Bus, Air, etc.).
+* **Hardware-Web Bridge:** Engineered responsive panels integrated with **POS App hardware** via JS bridges, streamlining on-ground ticketing operations.
+
+---
+
+### 📈 GitHub Ecosystem
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=sbashar04&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sbashar04&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="150" />
+</p>
+
+---
+
+### 📬 Let's Connect!
+
+I am always open to discussing **Enterprise Software Development**, **System Design**, and **Global Tech Opportunities**.
+
+- 🌍 **Website:** [shafiulbashar.com](https://www.shafiulbashar.com)
+- ✉️ **Email:** [hello@shafiulbashar.com](mailto:hello@shafiulbashar.com)
+- 🤝 **LinkedIn:** [mdshafiulbashar](https://www.linkedin.com/in/mdshafiulbashar/)
+
+---
+*“Simplicity is the soul of efficiency.”*
