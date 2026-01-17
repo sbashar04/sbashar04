@@ -21,11 +21,11 @@ Building scalable enterprise solutions with **8+ years of professional experienc
 
 | Category | Technologies |
 | :--- | :--- |
-| **Frontend** | Angular, React, TypeScript, Tailwind CSS, Electron |
-| **Backend** | Laravel (v4-v12), Node.js (Express), PHP |
-| **Database & Real-time** | MySQL, Redis, MongoDB, Socket.io |
-| **DevOps & Tools** | Docker, Azure DevOps, Nginx, Git, CI/CD |
-| **AI-Assisted Dev** | Cursor, GitHub Copilot, Claude Code, Gemini |
+| **Frontend** | Angular, React, TypeScript, Tailwind CSS, BootStrap, Material Design, Electron |
+| **Backend** | Laravel (v4-v12), Node.js (Express), PHP, Python |
+| **Database & Real-time** | MySQL, PostgreSQL, Redis, MongoDB, Socket.io |
+| **DevOps & Tools** | Docker, Azure DevOps, Nginx, Linux, Git, CI/CD |
+| **AI-Assisted Dev** | Cursor, GitHub Copilot, Claude Code, Gemini, Antigravity |
 
 ---
 
@@ -48,10 +48,10 @@ Building scalable enterprise solutions with **8+ years of professional experienc
 
 ---
 
-### 📈 GitHub Ecosystem
+### 🌐 Knowledge Base & Toolbelt
+
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=sbashar04&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sbashar04&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="150" />
+  <img src="https://skillicons.dev/icons?i=angular,ts,rxjs,nodejs,express,javascript,laravel,php,mysql,postgresql,mongodb,redis,linux,docker,azure,git,github,gitlab,bitbucket,tailwind,bootstrap,wordpress,python,java,c#" />
 </p>
 
 ---
